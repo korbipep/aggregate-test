@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399966120038",
+    "project_id": "aggregate-test-4a035",
+    "storage_bucket": "aggregate-test-4a035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399966120038:android:71f90cb2f4a149d949a5a7",
+        "android_client_info": {
+          "package_name": "com.example.aggregate_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuzfwM3QEGJRPry2jBgNMgq3hi6LH1OmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
